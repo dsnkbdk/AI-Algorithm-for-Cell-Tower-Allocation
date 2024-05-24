@@ -1,4 +1,4 @@
-# Allocation of Cell Towers to Core Network for Service Impact Mitigation
+# AI Algorithm for Cell Tower Allocation
 
 This project aims to develop an algorithm to systematically allocate cell towers to different core network hubs to mitigate service impact. The project explores and implements two primary methods, clustering and map coloring with iterative optimization, to achieve effective allocation while balancing the load and minimizing the number of hubs.
 
